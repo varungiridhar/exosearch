@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>412552531645-57bunovdg89l1mjqvk1qg9a7qtam60g0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.412552531645-57bunovdg89l1mjqvk1qg9a7qtam60g0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBI-1u9gts6dmqZxCfS6A1lt0WI8bqIOcI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>412552531645</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>eva.exoPlanetProjectOne</string>
+	<key>PROJECT_ID</key>
+	<string>exoplanetdatabase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>exoplanetdatabase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:412552531645:ios:d3c8efafb23a8765</string>
+	<key>DATABASE_URL</key>
+	<string>https://exoplanetdatabase.firebaseio.com</string>
+</dict>
+</plist>
